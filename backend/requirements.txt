@@ -1,0 +1,54 @@
+# FastAPI and ASGI server
+fastapi
+uvicorn[standard]
+
+# Database
+sqlalchemy
+sqlmodel
+asyncpg
+psycopg2-binary
+sqlalchemy-utils
+greenlet
+alembic
+
+# OpenSearch
+opensearch-py
+
+# HTTP client
+aiohttp
+httpx
+
+# OpenAI
+openai
+
+# Async file operations
+aiofiles
+
+# Cryptography for encryption
+cryptography
+
+# Environment and configuration
+python-dotenv
+
+# Logging and monitoring
+loguru
+stackprinter
+
+# Pydantic for data validation
+pydantic
+
+# Date/time utilities
+python-dateutil
+
+# UUID utilities
+uuid
+
+# Testing (optional but recommended)
+pytest
+pytest-asyncio
+httpx
+
+# Development tools (optional)
+black
+isort
+flake8
